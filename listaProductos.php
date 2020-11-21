@@ -383,7 +383,7 @@ $usuarios = $transaccion->consultarDatos($consulta);
                 <h4 class="alert-heading text-center">Bienvenido a nuestra estanteria de productos!</h4>
                 <p>Esperamos que puedas satisfacer tus necesidades con nuestros productos, esperamos que tu recorrido por la tienda sea lo mas ameno posible. Trataremos de escuchar tus opiniones y trabajar en base a ellas. </p>
                 <hr>
-                <p class="mb-0">Whenever you need to, be sure to use margin utilities to keep things nice and tidy.</p>
+                <p class="mb-0">"Nuestro cometido de hombres estriba en hallar aquellas formular capaces de apaciguar la angustia infinita de las almas libres". Albert Camus.</p>
             </div>
         </div>
 

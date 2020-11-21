@@ -86,7 +86,7 @@
                                     Registra tus productos.
                                 </button>
                             </a>
-                            <a href="agregar-prod.php" style="text-decoration: none;">
+                            <a href="listaProductos.php" style="text-decoration: none;">
                                 <button type="button" class="list-group-item list-group-item-action">Agrega tus productos.</button>
                             </a>
                             <a href="#" style="text-decoration: none;">
@@ -102,7 +102,6 @@
                     </div>
                     <div class="modal-footer">
                         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                        <button type="button" class="btn btn-primary">Save changes</button>
                     </div>
                 </div>
             </div>

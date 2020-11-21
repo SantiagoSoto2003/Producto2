@@ -174,7 +174,7 @@
                                 </div>
                             </div>
                         </a>
-                        <a href="registrar-prod.php">
+                        <a href="index.php">
                             <div class="list-group-item list-group-item-action">
                                 <div class="text-center vista1">
                                     <svg width="2em" height="2em" viewBox="0 0 16 16" class="bi bi-info-square-fill i" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
@@ -257,7 +257,7 @@
 
                         <div class="col-md-4 col-sm-6 mt-2" id="link">
                             <div class="vista5">
-                                <a href="" style="text-decoration: none;">
+                                <a href="index.php" style="text-decoration: none;">
                                     <img src="img/3544734.jpg" width="100%" height="100%" alt="">
                                     <div class="row">
                                         <div class="col-md-2">

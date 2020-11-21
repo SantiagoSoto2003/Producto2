@@ -157,7 +157,7 @@
                             </div>
                         </a>
 
-                        <a href="registrar-prod.php">
+                        <a href="#">
                             <div class="list-group-item list-group-item-action">
                                 <div class="text-center vista1">
                                     <svg width="2em" height="2em" viewBox="0 0 16 16" class="bi bi-sun i" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
